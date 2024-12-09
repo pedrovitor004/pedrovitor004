@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovitor004&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ff6f00&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor004&layout=compact&hide_border=true&title_color=ffffff&text_color=ff6f00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovitor004&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ff3600&bg_color=0d1117" alt="Pedro vitor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor004&layout=compact&hide_border=true&title_color=ffffff&text_color=ff3600&bg_color=0d1117" />
 </div>
 
 ### Main skills:
@@ -38,5 +38,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrovitor004}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=#ff3600&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff3600&section=footer"/>
 
