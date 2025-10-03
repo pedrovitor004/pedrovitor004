@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff3600&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF3600&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Vitor+Barbosa;I'm+20+years+old;I+am+from+Sumé,+PB;I+study+analysis+and+systems+development+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF3600&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Vitor+Barbosa;I'm+21+years+old;I+am+from+Sumé,+PB;I+study+analysis+and+systems+development+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovitor004&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ff3600&bg_color=0d1117" alt="Pedro Vitor GitHub Stats" /> 
