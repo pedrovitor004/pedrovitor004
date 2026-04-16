@@ -1,48 +1,63 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff3600&fontColor=ffffff"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF3600&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Vitor+Barbosa;I'm+21+years+old;I+am+from+Sumé,+PB;I+study+analysis+and+systems+development+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrovitor004&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ff3600&bg_color=0d1117" alt="Pedro Vitor GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor004&layout=compact&hide_border=true&title_color=ffffff&text_color=ff3600&bg_color=0d1117" />
-</div>
-
-### Main Skills:
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>&nbsp;
-</div>
-
-### Tools:
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio--v1.png" alt="Visual Studio"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>&nbsp;
-  <img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="GitHub"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office"/>&nbsp;
-</div>
-
-### Other Knowledge:
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>&nbsp;
-</div>
-
-### Studying at the moment:
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>&nbsp;
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6a0dad&fontColor=ffffff&text=Pedro%20Vitor&fontSize=70" />
 </div>
 
 <div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrovitor004}/count.svg" /></p> 
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=FULLSTACK+DEVELOPER;Creating+the+Future;Transformando+café+em+código" alt="Typing SVG" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff3600&section=footer"/>
+### 🌌 Sobre Mim
+Sou um desenvolvedor Fullstack apaixonado por construir experiências digitais modernas e interfaces memoráveis. Atualmente cursando Análise e Desenvolvimento de Sistemas no **IFPB**, foco em criar soluções de alta performance com design sofisticado.
+
+---
+
+### 🚀 Minha Stack Principal
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estatísticas
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedrovitor004&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitor004&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🛠️ Ferramentas & SO
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrovitor004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/seu-numero" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://pedrovitor004.github.io/projeto-site-novo/" target="_blank">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-6a0dad?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://profile-counter.glitch.me/pedrovitor004/count.svg" />
+  <p><i>"Creating the future, one line at a time."</i></p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6a0dad&section=footer" />
