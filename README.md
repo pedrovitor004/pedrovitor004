@@ -81,7 +81,11 @@ Vamos construir algo incrível.
 
 <div align="center">
   <br />
-  <img src="https://profile-counter.glitch.me/pedrovitor004/count.svg" alt="Visitors" />
+  <p align="center">
+    <a href="https://github.com/pedrovitor004">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpedrovitor004&count_bg=%236A0DAD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitors"/>
+    </a>
+  </p>
   <p><i>"A engenharia não é sobre o que é possível, mas sobre o que é necessário."</i></p>
 </div>
 
